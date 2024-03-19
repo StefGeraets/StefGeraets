@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <samp>
+    <a href="https://stefgeraets.nl">StefGeraets.nl</a> ✦
+    <a href="https://www.linkedin.com/in/stef-geraets/">LinkedIn</a> ✦
+    <a href="https://www.instagram.com/stefgeraets.nl/">Instagram</a> ✦
+    <a href="mail:hello@stefgeraets.nl">Contact</a>
+  </samp>
+</p>
 
 <!--
 **StefGeraets/StefGeraets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
