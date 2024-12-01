@@ -3,7 +3,7 @@
     <a href="https://stefgeraets.nl">StefGeraets.nl</a> ✦
     <a href="https://www.linkedin.com/in/stef-geraets/">LinkedIn</a> ✦
     <a href="https://www.instagram.com/stefgeraets.nl/">Instagram</a> ✦
-    <a href="mailto:hello@stefgeraets.nl">Contact</a>
+    <a href="mailto:stef.geraets@gmail.nl">Contact</a>
   </samp>
 </p>
 
